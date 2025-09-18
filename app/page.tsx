@@ -142,7 +142,7 @@ export default function Home() {
                 About
               </a>
               <Button size="sm" className="text-xs font-bold bg-black hover:bg-black/90 shadow-lg px-3 lg:px-4 py-2" asChild>
-                <a href="https://app.attyn.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://task.attyn.com" target="_blank" rel="noopener noreferrer">
                   Get Started
                 </a>
               </Button>
@@ -171,7 +171,7 @@ export default function Home() {
               <a href="/about" className="block text-sm font-bold text-black/70 py-2" onClick={() => setMobileMenuOpen(false)}>About</a>
               <div className="pt-4 space-y-3">
                 <Button size="sm" className="w-full text-sm font-bold bg-black hover:bg-black/90 py-3" asChild>
-                  <a href="https://app.attyn.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://task.attyn.com" target="_blank" rel="noopener noreferrer">
                     Get Started
                   </a>
                 </Button>
@@ -206,7 +206,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center max-w-sm sm:max-w-none mx-auto">
               <Button size="sm" className="w-full sm:w-auto bg-black hover:bg-black/90 text-white px-4 py-2 text-xs font-bold shadow-xl" asChild>
-                <a href="https://app.attyn.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://task.attyn.com" target="_blank" rel="noopener noreferrer">
                   Start Free Trial
                   <ArrowRight className="ml-2 h-3 w-3" />
                 </a>
@@ -867,7 +867,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Button size="sm" className="bg-black hover:bg-gray-800 text-white px-6 py-2 text-sm font-medium" asChild>
-              <a href="https://app.attyn.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://task.attyn.com" target="_blank" rel="noopener noreferrer">
                 Start Your Free Trial
               </a>
             </Button>
@@ -904,7 +904,7 @@ export default function Home() {
                   <span className="text-gray-600 text-sm">/always</span>
                 </div>
                 <Button size="sm" className="w-full bg-black hover:bg-gray-800 text-white text-sm font-medium" asChild>
-                  <a href="https://app.attyn.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://task.attyn.com" target="_blank" rel="noopener noreferrer">
                     Start Free
                   </a>
                 </Button>
@@ -1193,7 +1193,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Button size="sm" className="bg-white hover:bg-white/90 text-black px-6 py-2 text-sm font-medium" asChild>
-              <a href="https://app.attyn.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://task.attyn.com" target="_blank" rel="noopener noreferrer">
                 Start Your Free Trial
                 <ArrowRight className="ml-2 h-4 w-4" />
               </a>
